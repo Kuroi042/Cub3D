@@ -19,7 +19,7 @@ _This project implements a basic 3D raycasting engine in C, inspired by classic 
 
 -Clone the repository to your local machine.
 
--Add MLX library files to the repository.
+-Add MLX library files to the repository [here ](https://github.com/codam-coding-college/MLX42).
 
 -Compile the C source code using a compatible compiler.
 
